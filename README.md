@@ -1,2 +1,2 @@
 # webprog-lab-project
- Web programming LAB project test
+ Web programming LAB project
